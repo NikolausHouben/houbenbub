@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Nikolaus Houben
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'PhD Researcher'
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests reinforcement learning, graph neural networks, and transformers. 
 
 #interests:
 #- Artificial Intelligence
