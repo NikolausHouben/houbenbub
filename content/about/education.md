@@ -24,24 +24,24 @@ date_format: Jan 2006
 experience:
   - title: M.Sc. Urban Data Science
     company: Delft University of Technology
-    company_url: 'tudelft.nl'
+    company_url: 'https://www.tudelft.nl/en/'
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    location: The Netherlands
+    date_start: '2018-09-01'
+    date_end: '2020-09-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Thesis on "Network Analysis of the Adoption of a Digital Currency: The ECO coin"
+        * Visitor forecasting software for ARTIS – Amsterdam Royal Zoo
+        * VR Scene for roboat.org
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: B.Sc Civil Engineering
+    company: Vienna University of Technology
+    company_url: 'https://www.tuwien.at/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: Austria
+    date_start: '2014-10-01'
+    date_end: '2018-06-01'
+    description: Thesis on "Modelling Heavy Metal Emissions from Rooftops in Vienna"
 
 design:
   columns: '1'
