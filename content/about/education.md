@@ -25,7 +25,7 @@ experience:
   - title: M.Sc. Urban Data Science
     company: Delft University of Technology
     company_url: 'https://www.tudelft.nl/en/'
-    company_logo: org-x
+    company_logo: tudelft
     location: The Netherlands
     date_start: '2018-09-01'
     date_end: '2020-09-01'
@@ -37,7 +37,7 @@ experience:
   - title: B.Sc Civil Engineering
     company: Vienna University of Technology
     company_url: 'https://www.tuwien.at/'
-    company_logo: org-x
+    company_logo: tuwien
     location: Austria
     date_start: '2014-10-01'
     date_end: '2018-06-01'
